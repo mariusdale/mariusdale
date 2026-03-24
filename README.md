@@ -2,7 +2,7 @@
 
 # Hi, I'm Marius Nikolai Dale 👋
 
-### AI & Fintech Builder · M.Sc. IT & Economics · Intern @ Knowit
+### M.Sc. IT & Economics · Intern @ Knowit
 
 [![GitHub followers](https://img.shields.io/github/followers/mariusdale?style=flat&color=00e5c0&labelColor=0a0f1a)](https://github.com/mariusdale)
 [![Profile views](https://komarev.com/ghpvc/?username=mariusdale&color=00e5c0&style=flat&label=Profile+views)](https://github.com/mariusdale)
@@ -14,16 +14,11 @@
 
 ## About Me
 
-I'm a master's student in **Information Technology and Economics** at the University of Bergen, currently interning at **Knowit** in Bergen. I build at the intersection of AI and finance — from predictive energy operations tools to fintech investment strategy.
-
-Before tech, I was selected as one of **11 out of 1,427 applicants** to the Norwegian Air Force Flight School — an experience that shaped how I approach hard problems: disciplined, systematic, and high-stakes.
+I'm a master's student in **Information Technology and Economics** at the University of Bergen, currently interning at **Knowit** in Bergen.
 
 - 🎓 M.Sc. IT & Economics @ **UiB** (2023–2028) | Exchange @ **HKU Business School** (2025)
 - 💼 Tech intern @ **Knowit** · Previously corporate advisor @ **SpareBank 1**
 - 📈 Portfolio group member @ **Fintech Enigma** — managing a student-run investment fund
-- ✈️ Former flight aspirant, **Luftforsvaret** (Norwegian Air Force)
-- 🔭 Currently building **OptiFlow AI** — an AI co-pilot for renewable energy operations
-- 💬 Ask me about AI/ML, fintech, energy analytics, or data security
 
 ---
 
@@ -51,11 +46,6 @@ Before tech, I was selected as one of **11 out of 1,427 applicants** to the Norw
 ---
 
 ## Featured Projects
-
-### ⚡ OptiFlow AI — AI-Powered Energy Operations
-> AI co-pilot for renewable energy operators. Connects to turbines, solar parks and grid assets to detect anomalies, predict failures and recommend actions in real time.
-
-**Projected impact:** 30% lower operating costs · 60% less unplanned downtime · Real-time AI recommendations
 
 ### 🖥️ Personal Dashboard
 > A clean, dark-mode browser start page with live weather, GitHub activity, daily quotes, quick links, and a to-do list — all stored locally, no backend required.
