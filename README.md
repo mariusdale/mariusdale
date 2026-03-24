@@ -52,7 +52,7 @@ I'm a master's student in **Information Technology and Economics** at the Univer
   > Open-source CLI tool for inspecting and visualizing Azure Data Factory pipeline JSON files — list pipelines, view
   dependency trees, audit parameters, and run static analysis from your terminal.
 
-  ### 🏭 [DPLOY Data Warehouse]
+  ### 🏭 DPLOY Data Warehouse
   > Azure Data Factory data warehouse pipeline project — orchestrates incremental and full-reload ETL from SQL Managed
   Instance to Azure SQL DB with multi-customer parameterization.
 
