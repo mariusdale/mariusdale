@@ -63,5 +63,5 @@ I'm a master's student in **Information Technology and Economics** at the Univer
 </div>
 
 <div align="center">
-  <sub>Bergen, Norway · AI · Fintech · Energy Tech · 2026</sub>
+  <sub>Bergen, Norway · AI · Fintech · 2026</sub>
 </div>
