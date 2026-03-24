@@ -62,69 +62,6 @@ I'm a master's student in **Information Technology and Economics** at the Univer
 
 </div>
 
----
-
-## Background
-
-|
-|
-|
-|
----
-|
----
-|
-|
- ✈️ 
-**
-Norwegian Air Force
-**
-|
- Selected 11/1,427 applicants — Flight School 2022 
-|
-|
- 🏦 
-**
-SpareBank 1 Sør-Norge
-**
-|
- Corporate & personal advisory (2+ years) 
-|
-|
- 🏦 
-**
-DNB
-**
-|
- Customer advisor 
-|
-|
- 🔐 
-**
-UiB
-**
-|
- Teaching assistant — INF140: Introduction to Data Security 
-|
-|
- 📊 
-**
-Fintech Enigma
-**
-|
- Portfolio group, student investment fund 
-|
-|
- 🌏 
-**
-HKU Business School
-**
-|
- Exchange semester, Hong Kong 2025 
-|
-
----
-
 <div align="center">
   <sub>Bergen, Norway · AI · Fintech · Energy Tech · 2026</sub>
 </div>
