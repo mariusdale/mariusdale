@@ -22,6 +22,7 @@ I'm a master's student in **Information Technology and Economics** at the Univer
 
 ---
 
+
 ## Tech Stack
 
 **Languages**
@@ -47,8 +48,17 @@ I'm a master's student in **Information Technology and Economics** at the Univer
 
 ## Featured Projects
 
+### 🔍 [adf-inspect](https://github.com/mariusdale/adf-inspect)
+  > Open-source CLI tool for inspecting and visualizing Azure Data Factory pipeline JSON files — list pipelines, view
+  dependency trees, audit parameters, and run static analysis from your terminal.
+
+### 🏭 [dploy-dw](https://github.com/mariusdale/dploy-dw)
+  > Azure Data Factory data warehouse pipeline project — orchestrates incremental and full-reload ETL from SQL Managed
+  Instance to Azure SQL DB with multi-customer parameterization.
+
 ### 🖥️ Personal Dashboard
-> A clean, dark-mode browser start page with live weather, GitHub activity, daily quotes, quick links, and a to-do list — all stored locally, no backend required.
+  > A clean, dark-mode browser start page with live weather, GitHub activity, daily quotes, quick links, and a to-do
+  list — all stored locally, no backend required.
 
 ---
 
