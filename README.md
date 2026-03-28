@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Marius Nikolai Dale 👋
+# Hi, I'm Marius 👋
 
 ### M.Sc. IT & Economics · Intern @ Knowit
 
