@@ -22,7 +22,7 @@ Master's student working at the intersection of **AI agents, fintech infrastruct
  
 ## Featured Projects
  
-### 🧾 AgentLedger[AgentLedger](https://github.com/mariusdale/Assembler)
+### 🧾 [AgentLedger](https://github.com/mariusdale/Assembler)
 > Governance and budget control layer for AI agent payments — *Ramp for AI agents*. Compliance-grade agent governance for regulated fintech, with a Know-Your-Agent (KYA) identity layer and integrations across emerging agent payment protocols (x402, AP2, ACP). Turborepo monorepo (TypeScript), Next.js dashboard, MCP server, and AgentKit extension.
  
 ### ⚙️ Assembler
