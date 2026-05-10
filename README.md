@@ -21,12 +21,13 @@ Master's student working at the intersection of **AI agents, fintech infrastruct
 ---
  
 ## Featured Projects
+
+
+### ⚙️ [Assembler](https://github.com/mariusdale/Assembler)
+> CLI-tool that deploys production-ready Next.js applications with **Clerk** authentication and **Neon** Postgres provisioning out of the box. Built in TypeScript with macOS Keychain-backed credential storage via `keytar`.
  
 ### 🧾 AgentLedger
 > Governance and budget control layer for AI agent payments — *Ramp for AI agents*. Compliance-grade agent governance for regulated fintech, with a Know-Your-Agent (KYA) identity layer and integrations across emerging agent payment protocols (x402, AP2, ACP). Turborepo monorepo (TypeScript), Next.js dashboard, MCP server, and AgentKit extension.
- 
-### ⚙️ [Assembler](https://github.com/mariusdale/Assembler)
-> CLI that scaffolds and deploys production-ready Next.js applications with **Clerk** authentication and **Neon** Postgres provisioning out of the box. Built in TypeScript with macOS Keychain-backed credential storage via `keytar`.
  
 ### 🔍 [adf-inspect](https://github.com/mariusdale/adf-inspect)
 > Open-source CLI for inspecting and visualizing **Azure Data Factory** pipelines — list pipelines, view dependency trees, audit parameters, and run static analysis from the terminal.
