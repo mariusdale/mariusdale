@@ -58,10 +58,6 @@ Master's student working at the intersection of **AI agents, fintech infrastruct
  
 ---
  
-<div align="center">
-![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusdale&show_icons=true&theme=dark&bg_color=0a0f1a&title_color=00e5c0&icon_color=00e5c0&text_color=e2e8f0&border_color=2a2e3d)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusdale&layout=compact&theme=dark&bg_color=0a0f1a&title_color=00e5c0&text_color=e2e8f0&border_color=2a2e3d)
- 
 <sub>Bergen, Norway</sub>
  
 </div>
