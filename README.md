@@ -6,7 +6,6 @@
 **M.Sc. Information Technology & Economics · University of Bergen**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marius--dale-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/marius-dale)
-[![GitHub followers](https://img.shields.io/github/followers/mariusdale?style=flat&label=Follow&color=00e5c0&labelColor=0a0f1a)](https://github.com/mariusdale)
  
 </div>
 
